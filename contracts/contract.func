@@ -1,0 +1,8 @@
+() main() {
+  ;; This is the main function
+}
+
+() recv_internal(int my_param) {
+  ;; This function is called upon receiving an internal message
+  ;; Perform operations based on my_param
+}
